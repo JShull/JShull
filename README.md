@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **John Shull**, a **Lead Project Scientist** at the Virginia Modeling Analysis Simulation Center ([VMASC](https://vmasc.org/)🌍) and an **Adjunct Instructor** with the Game Studies & Design Program :space_invader: at [ODU](https://www.odu.edu) 🚀!  Currently, I'm working towards funded projects that deal with :mag_right::mag: mixed reality (XR) and using Game Engines to do all sorts of fun things! When I'm not tinkering about, I might be on XBox :video_game: **The JohnnyFuzz** and/or hanging out with the other Fuzz's... :eyes:
+Hi there, I'm **John Shull**, a **Lead Project Scientist** at the Virginia Modeling Analysis Simulation Center ([VMASC](https://vmasc.org/)🌍) and an **Adjunct Instructor** with the Game Studies & Design Program :space_invader: at [ODU](https://www.odu.edu) 🚀!  Currently, I'm working towards funded projects that deal with :mag_right::mag: mixed reality (XR) and using Game Engines to do all sorts of fun things! When I'm not tinkering about, I might be on XBox :video_game: **The JohnnyFuzz**, jamming to some [Above & Beyond](https://music.apple.com/us/artist/above-beyond/20318188), and/or hanging out with the other Fuzz's... :eyes:
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/szAb0eLo0zWBpFdgpz/giphy.gif" />
 
@@ -49,23 +49,6 @@ Hi there, I'm **John Shull**, a **Lead Project Scientist** at the Virginia Model
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/apachekafka.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/steam.svg"></code>
 
-
-
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=jshull)
 
 ⭐️ From [JShull](https://github.com/JShull)
-
-<!--
-**JShull/JShull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
