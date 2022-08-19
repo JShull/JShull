@@ -31,7 +31,7 @@ Hi there, I'm **John Shull**, a **Lead Project Scientist** at the Virginia Model
 
 **Student Stuffs:**
 
-I constantly am working with different individuals through my work and I want to recognize a few students that I'm sure will go on to do greatness!:fire:
+I constantly am working with different individuals through my work and I want to recognize a few students that I'm sure will go on to greatness!:fire:
 - [Jykeim Giddens]() has been working off and on semesters since 2019. He is set to graduate from the [Cyber Security Program](https://www.odu.edu/academics/programs/undergraduate/cybersecurity) at ODU in the fall of 2022! :partying_face:
 - [Rachel McCullough]() worked with me 2021 as a graduate student on the [Modeling Religious Change Project](https://mindandculture.org/projects/modeling-social-systems/modeling-religious-change/). She currently has her [Masters in Applied Linguistics](https://www.odu.edu/academics/programs/masters/applied-linguistics) and she will be supporting a Veterans Affairs project starting the fall of 2022 as a Project Scientist at VMASC. 
 - [Jared Cochran](https://github.com/BaconStrps) started working with me in the summer of 2022 and is enrolled at [TCC](https://www.tcc.edu/programs/transfer/old-dominion-university/) and ODU under the [Computer Engineering Program](https://www.odu.edu/academics/programs/undergraduate/computer-engineering).
