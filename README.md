@@ -29,6 +29,14 @@ Hi there, I'm **John Shull**, a **Lead Project Scientist** at the Virginia Model
 - 📝 See my [Curriculum Vitae](https://github.com/JShull/JShull/blob/main/JShull_CV.pdf) to get more info
 - ⚡ Fun fact: When I was in highschool, I helped some internet friends create [DayOfDefeat](https://www.dayofdefeat.com/)! You won't find my name in the credits but you might find my dad **[FuzzDad](https://dayofdefeat.fandom.com/wiki/Glider)**
 
+**Student Stuffs:**
+
+I constantly am working with different individuals through my work and I want to recognize a few students that I'm sure will go on to do greatness!:fire:
+- [Jykeim Giddens]() has been working off and on semesters since 2019. He is set to graduate from the [Cyber Security Program](https://www.odu.edu/academics/programs/undergraduate/cybersecurity) at ODU in the fall of 2022! :partying_face:
+- [Rachel McCullough]() worked with me 2021 as a graduate student on the [Modeling Religious Change Project](https://mindandculture.org/projects/modeling-social-systems/modeling-religious-change/). She currently has her [Masters in Applied Linguistics](https://www.odu.edu/academics/programs/masters/applied-linguistics) and she will be supporting a Veterans Affairs project starting the fall of 2022 as a Project Scientist at VMASC. 
+- [Jared Cochran](https://github.com/BaconStrps) started working with me in the summer of 2022 and is enrolled at [TCC](https://www.tcc.edu/programs/transfer/old-dominion-university/) and ODU under the [Computer Engineering Program](https://www.odu.edu/academics/programs/undergraduate/computer-engineering).
+- [Catherine Owens]() worked with me in the summer of 2022 as a collaboration effort with [VIMS](https://www.vims.edu/). She is currently enrolled in the [Industrial and Interaction Design Program at Syracuse University](https://vpa.syr.edu/academics/design/programs/industrial-interaction-design-bid/) and her project page will eventually be up... :wink:
+
 **Software Stuffs:**  
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/csharp.svg"></code>
