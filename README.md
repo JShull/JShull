@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **John Shull**, a **Lead Project Scientist** at the Virginia Modeling Analysis Simulation Center ([VMASC](https://vmasc.org/)🌍) and an **Adjunct Instructor** with the Game Studies & Design Program :space_invader: at [ODU](https://www.odu.edu) 🚀!  Currently, I'm working towards funded projects that deal with mixed reality (XR) and using Game Engines to do all sorts of fun things! When I'm not tinkering about, I might be on XBox :video_game: **The JohnnyFuzz**, jamming to some [Above & Beyond](https://music.apple.com/us/artist/above-beyond/20318188), and/or hanging out with the other Fuzz's... :eyes:
+Hi there, I'm **John Shull**, a **Lead Project Scientist** at the Virginia Modeling Analysis Simulation Center ([VMASC](https://vmasc.org/)🌍) and an **Adjunct Instructor** with the Game Studies & Design Program :space_invader: at [ODU](https://www.odu.edu) 🚀!  Currently, I'm working towards funded projects that deal with mixed reality (XR) and using Game Engines to do all sorts of fun things! When I'm not tinkering about, I'm probably learning life lessons from my amazing significant other :heart: or perhaps I'm on XBox :video_game: playing with my core group trying to break EA physics junk 😉 under the handle, **The JohnnyFuzz**, or maybe just jamming to some [Above & Beyond](https://music.apple.com/us/artist/above-beyond/20318188), and in some circumstances hanging out with the other Fuzz's... :eyes:
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/szAb0eLo0zWBpFdgpz/giphy.gif" />
 
