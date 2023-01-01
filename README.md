@@ -57,6 +57,8 @@ I constantly am working with different individuals through my work and I want to
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/apachekafka.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/steam.svg"></code>
 
-![John's github stats](https://github-readme-stats.vercel.app/api?username=jshull)
+![John's GitHub Stats](https://github.com/JShull/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![John's GitHub Language](https://github.com/JShull/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+
 
 ⭐️ From [JShull](https://github.com/JShull)
