@@ -57,8 +57,12 @@ I constantly am working with different individuals through my work and I want to
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/apachekafka.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/steam.svg"></code>
 
+⭐️ From [JShull](https://github.com/JShull)
+
 ![John's GitHub Stats](https://github.com/JShull/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![John's GitHub Language](https://github.com/JShull/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
+<a href="https://captures.lumalabs.ai/embed/unfazed-pamper-ba-1489?mode=slf&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false"><img align="left" alt="Custom Arcade Cabinet Built around a Laptop" width="300px" src="https://github.com/JShull/JShull/blob/main/SpaceJunk.JPG" /></a>
+<br />
+<br />
 
-⭐️ From [JShull](https://github.com/JShull)
