@@ -22,7 +22,7 @@ Hi there, I'm **John Shull**, a **Lead Project Scientist** :rocket: at the Virgi
 - 👨🏽‍💻 I’m currently a Lead Project Scientist at [VMASC](https://www.vmasc.org/) working on :shell:Oysters, XR, & :radio:5G
 - 🌱 I’m currently learning how to be a better educator
 - 🤔 My interests are using XR for everyday people
-- 💼 I’m pursuing a Doctoral Degree within Modeling & Simulation
+- 💼 I’m swapping PhD programs to Instructional Design & Technology (Fall 2023)
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please email via jshull@odu.edu to reach me
 - 😄 Pronouns: He/Him
