@@ -1,4 +1,4 @@
-### Hey 👋, I'm John!
+### Hey 👋, [I'm John](https://youtu.be/rY-Vs6r7Q8E)!
 
 <a href="https://www.linkedin.com/in/xr-johnshull/">
   <img align="left" alt="John's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
