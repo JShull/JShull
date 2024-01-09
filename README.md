@@ -28,6 +28,7 @@ Hi there, I'm **John Shull**, a **Lead Project Scientist** :rocket: at the Virgi
 - 😄 Pronouns: He/Him
 - 📝 See my [Curriculum Vitae](https://github.com/JShull/JShull/blob/main/JShull_CV.pdf) (updated 2022) to get more info
 - ⚡ Fun fact: When I was in highschool, I helped some internet friends create [DayOfDefeat](https://www.dayofdefeat.com/)! You won't find my name in the credits but you might find my dad **[FuzzDad](https://dayofdefeat.fandom.com/wiki/Glider)**
+- "...nothing lasts, nothing is finished, and nothing is perfect." - *Powell, Richard R. (2004). Wabi Sabi Simple. Adams Media. ISBN 1-59337-178-0*
 
 **Student Stuffs:**
 
