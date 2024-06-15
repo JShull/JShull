@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/xr-johnshull/">
   <img align="left" alt="John's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.fuzzphyte.com">
+<a href="https://fuzzphyte.com">
   <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/html5.svg" />
 </a>
 <a href="https://twitter.com/TheJohnnyFuzz">
