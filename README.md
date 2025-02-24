@@ -32,7 +32,7 @@ When I'm not tinkering about, I'm probably learning life lessons from my amazing
 - ⚡ Fun fact: When I was in highschool, I helped some internet friends create [DayOfDefeat](https://www.dayofdefeat.com/)! You won't find my name in the credits but you might find my dad **[FuzzDad](https://dayofdefeat.fandom.com/wiki/Glider)**
 - "...nothing lasts, nothing is finished, and nothing is perfect." - *Powell, Richard R. (2004). Wabi Sabi Simple. Adams Media. ISBN 1-59337-178-0*
 
-**Unity Package Stuff:**
+**Unity Package Stuffs:**
 
 The repositories below are in the public domain under a dual license and are based on years of me using Unity and coming up with my own custom libraries. They might not be helpful but they sure as hell have saved me a ton of effort! In most cases these repositories rely on the FP_Utility and a lot of them use a scriptable object pipeline that's built around a 'Data Factory' model via FP_Data.cs. They all are formatted to work directly with Unity's Package Manager (UPM) System and can be brought in using the [Git URL approach via UPM](https://docs.unity3d.com/Manual/upm-ui-giturl.html).
 
