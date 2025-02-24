@@ -4,16 +4,18 @@
   <img align="left" alt="John's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://fuzzphyte.com">
-  <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/html5.svg" />
+  <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.8.0/icons/html5.svg" />
 </a>
-<a href="https://twitter.com/TheJohnnyFuzz">
-  <img align="left" alt="John's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/twitter.svg" />
+<a href="https://bsky.app/profile/thejohnnyfuzz.bsky.social">
+  <img align="left" alt="John's BlueSky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.8.0/icons/bluesky.svg" />
 </a>
 
 <br />
 <br />
 
-Hi there, I'm **John Shull**, a **Lead Project Scientist** :rocket: at the Virginia Modeling Analysis Simulation Center ([VMASC](https://vmasc.org/)🌍) and an **Adjunct Instructor** with the [Game Studies & Design Program](https://www.odu.edu/academics/programs/undergraduate/game-studies-design) :space_invader: at [ODU](https://www.odu.edu) 🚀!  Currently, I'm working with some amazing students on projects that deal with large agent based simulations, working towards funded projects that deal with mixed reality (XR), and using Game Engines to do all sorts of fun things! When I'm not tinkering about, I'm probably learning life lessons from my amazing significant other :heart: or perhaps I'm on XBox :video_game: playing with my core group trying to break EA physics junk 😉 under the handle, **The JohnnyFuzz**, or maybe just jamming to some [Above & Beyond](https://music.apple.com/us/artist/above-beyond/20318188), and in some circumstances hanging out with the other Fuzz's... :eyes:
+Hi there, I'm **John Shull**, a **Lead Project Scientist** :rocket: at the Office of Enterprise Research and Innovation ([OERI](https://oduinnovate.org/)) formally known as the Virginia Modeling Analysis Simulation Center ([VMASC](https://vmasc.org/)🌍) and an **Adjunct Instructor** with the [Game Studies & Design Program](https://www.odu.edu/academics/programs/undergraduate/game-studies-design) :space_invader: at [ODU](https://www.odu.edu) 🚀!  Currently, I'm getting ready to start working on research associated with leveraging existing AI/ML workflows to help support the Aquaculture industry. I am doing a lot of collaboration with the Commercial Shellfish Aquaculture Lab & Team ([CSALT](https://www.vims.edu/research/units/labgroups/csalt/)) group and we are waiting on a [SeaGrant 2025](https://vaseagrant.org/) project to start in April that will leverage [Sonic Nets, Semi-Autonomous Vessels, and computer vision](https://github.com/JShull/JShull/blob/main/NOAA_SubmissionNarrative.pdf) services to research avian deterrence strategies. The plan is to use NVidia and Game Engines to do all sorts of fun things! 
+<br />
+When I'm not tinkering about, I'm probably learning life lessons from my amazing significant other :heart: or perhaps I'm on XBox :video_game: playing with my core group trying to break EA physics junk 😉 under the handle, **The JohnnyFuzz**, or maybe just jamming to some [Above & Beyond](https://music.apple.com/us/artist/above-beyond/20318188), and in some circumstances hanging out with the other Fuzz's... :eyes:
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/szAb0eLo0zWBpFdgpz/giphy.gif" />
 
