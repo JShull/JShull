@@ -68,5 +68,8 @@ I constantly am working with different individuals through my work and I want to
 
 <a href="https://captures.lumalabs.ai/embed/unfazed-pamper-ba-1489?mode=slf&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false"><img align="left" alt="Custom Arcade Cabinet Built around a Laptop" width="300px" src="https://github.com/JShull/JShull/blob/main/SpaceJunk.JPG" /></a>
 <br />
+
+<a href="https://lumalabs.ai/embed/3704305b-d146-4701-b25d-c0f3933336e8?mode=sparkles&background=%231abaff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=false"><img align="right" alt="OERI Willoughby Spit Boat Ramp Research Location" width="300px" src="https://github.com/JShull/JShull/blob/main/GitHubLuma_Willoughby.PNG" /></a>
+
 <br />
 
