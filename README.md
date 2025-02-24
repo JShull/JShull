@@ -19,16 +19,28 @@ Hi there, I'm **John Shull**, a **Lead Project Scientist** :rocket: at the Virgi
 
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Lead Project Scientist at [VMASC](https://www.vmasc.org/) working on :shell:Oysters, XR, & Education!
+- 👨🏽‍💻 I’m currently a Lead Project Scientist at [OERI](https://oduinnovate.org/) formally [VMASC](https://www.vmasc.org/) working on :shell:Oysters, XR, & Education!
 - 🌱 I’m currently learning how to be a better educator
 - 🤔 My interests are using XR for everyday people
-- 💼 I’m swapping PhD programs to Instructional Design & Technology (Fall 2023/Spring 2024)
+- 💼 I’m swapping PhD programs to Instructional Design & Technology... I think...
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please email via jshull@odu.edu to reach me
 - 😄 Pronouns: He/Him
-- 📝 See my [Curriculum Vitae](https://github.com/JShull/JShull/blob/main/JShull_CV.pdf) (updated 2022) to get more info
+- 📝 See my [Curriculum Vitae](https://github.com/JShull/JShull/blob/main/JShull_CV.pdf) (updated 2024) to get more info
 - ⚡ Fun fact: When I was in highschool, I helped some internet friends create [DayOfDefeat](https://www.dayofdefeat.com/)! You won't find my name in the credits but you might find my dad **[FuzzDad](https://dayofdefeat.fandom.com/wiki/Glider)**
 - "...nothing lasts, nothing is finished, and nothing is perfect." - *Powell, Richard R. (2004). Wabi Sabi Simple. Adams Media. ISBN 1-59337-178-0*
+
+**Unity Package Stuff:**
+
+The repositories below are in the public domain under a dual license and are based on years of me using Unity and coming up with my own custom libraries. They might not be helpful but they sure as hell have saved me a ton of effort! In most cases these repositories rely on the FP_Utility and a lot of them use a scriptable object pipeline that's built around a 'Data Factory' model via FP_Data.cs. They all are formatted to work directly with Unity's Package Manager (UPM) System and can be brought in using the [Git URL approach via UPM](https://docs.unity3d.com/Manual/upm-ui-giturl.html).
+
+- [FuzzPhyte Utility](https://github.com/JShull/FP_Utility) a Utility package that is considered core to all FuzzPhyte code
+- [FuzzPhyte EDU Utility](https://github.com/JShull/FP_Utility_EDU) an extension of Utility that has data objects related to VA state requirements and FP_Vocab
+- [FuzzPhyte XR](https://github.com/JShull/FP_XR) a library that provides some high level abstraction for me to write generic XR code that has zero dependencies on OVR or Unity XR. You use this package by deriving classes from it which then have the references as needed by your deployment hardware. For example things like Surface Lock, Label Tags, World Check, World Item, check alignment of transforms, and a beta of a socket system (not running yet) that mimics how OVR does attachable sockets.
+- [FuzzPhyte XR OVR](https://github.com/JShull/FP_XR_OVR) an extension of XR that does have dependencies on OVR. A higher level set of scripts that interact with OVR and extend OVR for other Unity Events.
+- [FuzzPhyte Event](https://github.com/JShull/FP_Event) a simple event system that utilizes a priority queue. Abstract set of classes that require an FPEVent derived data object. Other libraries use this FP_Event for misc. things as needed
+- [FuzzPhyte Dialogue](https://github.com/JShull/FP_Dialogue) a simple dialogue chaining system that uses the UI, Utility, and Utilty EDU packages to combine a way to generate a sequence/list of dialogues that have text, audio, and object references. Allows for up to 4 user different prompt responses all driven by an elaborate scriptable object set of data objects. There is no graph representation but there is a way to link Dialogues to other Dialogues giving you a way to have simple graph 'logic'. Originally written for the UIToolkit but also supports World Canvas operation with standard Unity UI elements.
+- [FuzzPhyte Ray](https://github.com/JShull/FP_Ray) a wrapper that sits ontop of Unity Raycast and gives you a way to easily drop in multiple different 3D and 2D rays all from the same data objects. A lot of setup but once you generate your data objects via scriptable objects super easy to modify, adjust, and utilize. A sort of 'one raycaster' to rule them all. 
 
 **Student Stuffs:**
 
@@ -37,7 +49,6 @@ I constantly am working with different individuals through my work and I want to
 - [Jared](https://github.com/BaconStrps) started working with me in the summer of 2022, finished his associated at [TCC](https://www.tcc.edu/programs/transfer/old-dominion-university/) and now is enrolled at ODU under the [Computer Engineering Program](https://www.odu.edu/academics/programs/undergraduate/computer-engineering). Jared is a fantastic student and has already excelled in multiple projects - I cannot wait to see where Jared goes once he finishes at ODU! 🎉 
 - [Nate](https://github.com/nhallen272) started working with me in the summer of 2023, he will be graduating from the [Cyber Security Program](https://www.odu.edu/academics/programs/undergraduate/cybersecurity) in the fall of 2023!
 - [Avantika](https://github.com/AvantikaMittapally53) started working with me the summer of 2023 and she will be completing her [Masters in Computer Science](https://www.odu.edu/academics/programs/masters/computer-science) at ODU in the fall of 2023!
-- [Prathyusha](https://github.com/PrathyushaKeerthi) started working with me the fall of 2023 and will be focused in on a [Masters in Computer Science](https://www.odu.edu/academics/programs/masters/computer-science) at ODU for an expected graduation of 2025.
 - [Catherine](https://github.com/catowens) worked with me in the summer of 2022 as a collaboration effort with [VIMS](https://www.vims.edu/). She is currently enrolled in the [Industrial and Interaction Design Program at Syracuse University](https://vpa.syr.edu/academics/design/programs/industrial-interaction-design-bid/) and her [2022 summer project portfolio can be found here](https://catowensdesign.myportfolio.com/vims-x-odu-vmasc-internship) :fire:
 - Rachel worked with me 2021 as a graduate student on the [Modeling Religious Change Project](https://mindandculture.org/projects/modeling-social-systems/modeling-religious-change/). She currently has her [Masters in Applied Linguistics](https://www.odu.edu/academics/programs/masters/applied-linguistics) 
 
