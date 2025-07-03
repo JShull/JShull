@@ -24,7 +24,7 @@ When I'm not tinkering about, I'm probably learning life lessons from my amazing
 - 👨🏽‍💻 I’m currently a Lead Project Scientist at [OERI](https://oduinnovate.org/) formally [VMASC](https://www.vmasc.org/) working on :shell:Oysters, 🥽 XR (TellVR Launches 2027), & Education!
 - 🌱 I’m currently learning how to be a better educator
 - 🤔 My interests are using XR for everyday people
-- 💼 I’m swapping PhD programs to Instructional Design & Technology... I think...
+- 💼 Started my own LLC in 2023 and am building software under a dual license for all aspects of FuzzPhyte and VABlueTech 🌊
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please email via jshull@odu.edu to reach me
 - 😄 Pronouns: He/Him
