@@ -21,7 +21,7 @@ When I'm not tinkering about, I'm probably learning life lessons from my amazing
 
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Lead Project Scientist at [OERI](https://oduinnovate.org/) formally [VMASC](https://www.vmasc.org/) working on :shell:Oysters, XR, & Education!
+- 👨🏽‍💻 I’m currently a Lead Project Scientist at [OERI](https://oduinnovate.org/) formally [VMASC](https://www.vmasc.org/) working on :shell:Oysters, 🥽 XR (TellVR Launches 2027), & Education!
 - 🌱 I’m currently learning how to be a better educator
 - 🤔 My interests are using XR for everyday people
 - 💼 I’m swapping PhD programs to Instructional Design & Technology... I think...
