@@ -21,7 +21,7 @@ When I'm not tinkering about, I'm probably learning life lessons from my amazing
 
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Lead Project Scientist at [OERI](https://oduinnovate.org/) formally [VMASC](https://www.vmasc.org/) working on :shell:Oysters, 🥽 XR (TellVR Launches 2027), & Education!
+- 👨🏽‍💻 I’m currently a Research Scientist at Old Dominion University working on :shell:Oysters, avian :eagle: deterrence, 🥽 XR (TellVR Launches 2027), & Education!
 - 🌱 I’m currently learning how to be a better educator
 - 🤔 My interests are using XR for everyday people
 - 💼 Started my own LLC in 2023 and am building software under a dual license for all aspects of FuzzPhyte and VABlueTech 🌊
